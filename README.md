@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer | Ex-Blogger at cryptoinch.com
 --------------------------------------------------
 
-I am Indore based front end developer, having experience of 1.5 years who loves to building and maintaining responsive websites. I am proficient in HTML5, CSS3, JavaScript, ReactJS and WordPress. I love to write
+I am Indore based front end developer, having experience of 1.5 years who loves to building and maintaining responsive websites. I am proficient in HTML5, CSS3, JavaScript, ReactJS and WordPress. I love technical writing.
 
 * 🌍  I'm based in Indore
 * 🖥️  See my portfolio at [developerravi.tech](http://developerravi.tech/)
