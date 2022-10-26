@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ravi Rathore
 ====================================================================================================================================
 
-Front End Developer | Ex-Blogger at cryptoinch.com
+Front End Developer | Technical Writer | Blogger
 --------------------------------------------------
 
 I am Indore based front end developer, having experience of 1.5 years who loves to building and maintaining responsive websites. I am proficient in HTML5, CSS3, JavaScript, ReactJS and WordPress. I love technical writing.
