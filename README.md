@@ -7,7 +7,7 @@ Front End Developer | Technical Writer | Blogger
 I am Indore based front end developer, having experience of 1.5 years who loves to building and maintaining responsive websites. I am proficient in HTML5, CSS3, JavaScript, ReactJS and WordPress. I love technical writing.
 
 * 🌍  I'm based in Indore
-* 🖥️  See my portfolio at [developerravi.tech](http://developerravi.tech/)
+* 🖥️  See my portfolio at [www.ravirathore.com](https://ravirathore.com/)
 * ✉️  You can contact me at [ravirathore672@gmail.com](mailto:ravirathore672@gmail.com)
 * 🧠  I'm learning React and NodeJS
 * ⚡  Interested in : Crypto Enthusiast | Web3 | Blockchain | MetaVerse
