@@ -8,7 +8,7 @@ I am Indore based front end developer, having experience of 1.5 years who loves 
 
 * 🌍  I'm based in Indore
 * 🖥️  See my portfolio at [www.ravirathore.com](https://ravirathore.com/)
-* ✉️  You can contact me at [ravirathore672@gmail.com](mailto:ravirathore672@gmail.com)
+* ✉️  You can contact me at [ravirathore672@gmail.com](mailto:contact@ravirathore.com)
 * 🧠  I'm learning React and NodeJS
 * ⚡  Interested in : Crypto Enthusiast | Web3 | Blockchain | MetaVerse
 
